@@ -1,0 +1,8 @@
+//initial file, probably nothing useful
+
+#include <stdlib.h>
+
+int main(int argc, char* argv) {
+	printf("hello world");
+	exit(0);
+}
